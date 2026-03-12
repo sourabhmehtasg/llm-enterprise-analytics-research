@@ -9,7 +9,7 @@ A lightweight tool that evaluates a relational star schema for readiness before
 deploying LLM-based natural language analytics. Paste a DDL file, get a
 readiness score with actionable remediation guidance.
 
-**[→ Open the Tool]([YOUR-NETLIFY-URL](https://schema-maturity-scorer.netlify.app/))**
+**[→ Open the Tool]([https://schema-maturity-scorer.netlify.app/])**
 
 ---
 
