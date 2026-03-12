@@ -91,7 +91,7 @@ work. The underlying research is in progress.
 ## Preprint
 
 A research abstract is available on ResearchGate:
-**[→ View Research Abstract](RESEARCHGATE-URL)**
+**[→ View Research Abstract](https://doi.org/10.13140/RG.2.2.28097.62561)**
 
 ---
 
